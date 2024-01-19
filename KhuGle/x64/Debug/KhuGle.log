@@ -1,0 +1,18 @@
+﻿  KhuGleBase.cpp
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\KhuGleBase.cpp(680,30): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\KhuGleBase.cpp(681,67): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KhuGleComponent.cpp
+  KhuGleLayer.cpp
+  KhuGleScene.cpp
+  KhuGleSignal.cpp
+  KhuGleSprite.cpp
+  KhuGleWin.cpp
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\KhuGleWin.cpp(352,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\KhuGleWin.cpp(370,32): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\KhuGleWin.cpp(414,32): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\KhuGleWin.cpp(526,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+  SoundPlayWin.cpp
+C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\KhuGle\SoundPlayWin.cpp(21,39): warning C4312: '형식 캐스트': 'DWORD'에서 더 큰 'LPWAVEHDR'(으)로의 변환입니다.
+  코드를 생성하고 있습니다...
+  KhuGle.vcxproj -> C:\Users\pinkm\OneDrive\바탕 화면\인공지능과게임프로그래밍\기말프로젝트 코드_2020105725 이정민\Run\KhuGle64D.exe
